@@ -1,0 +1,10 @@
+﻿------ Build started: Project: E:\Hotel\Travotel 2026\, Configuration: Debug Any CPU ------
+Validating Web Site
+Building directory '/Travotel 2026/js/'.
+Building directory '/Travotel 2026/'.
+
+E:\Hotel\Travotel 2026\deluxe_booking_checkout.aspx.cs(26,18): warning CS0169: The field 'deluxe_booking_checkout.txnid' is never used
+E:\Hotel\Travotel 2026\suite_booking_checkout.aspx.cs(24,18): warning CS0169: The field 'suite_booking_checkout.txnid' is never used
+E:\Hotel\Travotel 2026\standard_booking_checkout.aspx.cs(25,18): warning CS0169: The field 'standard_booking_checkout.txnid' is never used
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
